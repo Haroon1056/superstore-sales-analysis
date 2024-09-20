@@ -23,7 +23,6 @@ This project provides a detailed analysis of sales data from a Superstore. The a
     - Customer Segmentation Analysis
 - Visualizations
 - Installation
-- Repository Structure
 - License
 - Authors
 
@@ -123,23 +122,6 @@ git clone https://github.com/Haroon1056/Student-Result-Data-Analysis.git
 2. **Run the Jupyter notebook:**
 Jupyter notebook
 
-## Repository Structure
-
-superstore-sales-analysis/
-│
-├── data/
-│   └── superstore_sales_data.csv        # The dataset
-│
-├── images/
-│   └── sales_distribution_region.png    # Sales distribution by region
-│   └── monthly_sales_trend.png          # Monthly sales trend
-│   └── sales_per_category.png           # Average sales by product category
-│   └── sales_channels.png               # Sales performance by channel
-│
-├── notebooks/
-│   └── superstore_sales_analysis.ipynb  # Jupyter Notebook with analysis
-│
-├── README.md
 
 ## License
 This project is licensed under the MIT License.
